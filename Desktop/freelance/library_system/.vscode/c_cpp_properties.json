@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/cpp_libraries/asio-1.28.0/include"
+      ],
+      "defines": ["_DEBUG", "UNICODE", "_UNICODE"],
+      "cppStandard": "c++11"
+    }
+  ],
+  "version": 4
+}
